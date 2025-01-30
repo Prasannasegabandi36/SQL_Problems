@@ -1,2 +1,2 @@
-# SQL_Problems
+# 30 Days SQL Query Challenges
 SQL
